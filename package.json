@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build" : "tailwindcss build css/index.css -o dist/index.css"
+  },
+  
+  "dependencies": {
+    "tailwindcss": "^2.0.3"
+  }
+}
